@@ -1,0 +1,7 @@
+joblib
+pandas
+numpy
+typing
+fastapi
+pydantic
+uvicorn

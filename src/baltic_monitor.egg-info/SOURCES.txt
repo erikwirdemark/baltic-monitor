@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/__init__.py
+src/inference.py
+src/baltic_monitor.egg-info/PKG-INFO
+src/baltic_monitor.egg-info/SOURCES.txt
+src/baltic_monitor.egg-info/dependency_links.txt
+src/baltic_monitor.egg-info/requires.txt
+src/baltic_monitor.egg-info/top_level.txt
