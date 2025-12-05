@@ -1,0 +1,3647 @@
+{
+  "metadata": {
+    "generatedAt": "2025-12-05T23:28:34.413Z",
+    "description": "Baltic Sea grid cells with precise shoreline following",
+    "coordinateSystem": "WGS84 (EPSG:4326)",
+    "units": "degrees",
+    "note": "Grid cells filtered to only include water areas based on coastline polygon"
+  },
+  "config": {
+    "north": 66,
+    "south": 53.5,
+    "east": 30.5,
+    "west": 9.5,
+    "latStep": 0.5,
+    "lonStep": 0.5
+  },
+  "totalCells": 279,
+  "cells": [
+    {
+      "id": "cell_0_30",
+      "center": {
+        "lat": 65.75,
+        "lon": 24.75
+      },
+      "bounds": {
+        "north": 66,
+        "south": 65.5,
+        "east": 25,
+        "west": 24.5
+      }
+    },
+    {
+      "id": "cell_0_31",
+      "center": {
+        "lat": 65.75,
+        "lon": 25.25
+      },
+      "bounds": {
+        "north": 66,
+        "south": 65.5,
+        "east": 25.5,
+        "west": 25
+      }
+    },
+    {
+      "id": "cell_1_26",
+      "center": {
+        "lat": 65.25,
+        "lon": 22.75
+      },
+      "bounds": {
+        "north": 65.5,
+        "south": 65,
+        "east": 23,
+        "west": 22.5
+      }
+    },
+    {
+      "id": "cell_1_27",
+      "center": {
+        "lat": 65.25,
+        "lon": 23.25
+      },
+      "bounds": {
+        "north": 65.5,
+        "south": 65,
+        "east": 23.5,
+        "west": 23
+      }
+    },
+    {
+      "id": "cell_1_28",
+      "center": {
+        "lat": 65.25,
+        "lon": 23.75
+      },
+      "bounds": {
+        "north": 65.5,
+        "south": 65,
+        "east": 24,
+        "west": 23.5
+      }
+    },
+    {
+      "id": "cell_1_29",
+      "center": {
+        "lat": 65.25,
+        "lon": 24.25
+      },
+      "bounds": {
+        "north": 65.5,
+        "south": 65,
+        "east": 24.5,
+        "west": 24
+      }
+    },
+    {
+      "id": "cell_1_30",
+      "center": {
+        "lat": 65.25,
+        "lon": 24.75
+      },
+      "bounds": {
+        "north": 65.5,
+        "south": 65,
+        "east": 25,
+        "west": 24.5
+      }
+    },
+    {
+      "id": "cell_2_24",
+      "center": {
+        "lat": 64.75,
+        "lon": 21.75
+      },
+      "bounds": {
+        "north": 65,
+        "south": 64.5,
+        "east": 22,
+        "west": 21.5
+      }
+    },
+    {
+      "id": "cell_2_25",
+      "center": {
+        "lat": 64.75,
+        "lon": 22.25
+      },
+      "bounds": {
+        "north": 65,
+        "south": 64.5,
+        "east": 22.5,
+        "west": 22
+      }
+    },
+    {
+      "id": "cell_2_26",
+      "center": {
+        "lat": 64.75,
+        "lon": 22.75
+      },
+      "bounds": {
+        "north": 65,
+        "south": 64.5,
+        "east": 23,
+        "west": 22.5
+      }
+    },
+    {
+      "id": "cell_2_27",
+      "center": {
+        "lat": 64.75,
+        "lon": 23.25
+      },
+      "bounds": {
+        "north": 65,
+        "south": 64.5,
+        "east": 23.5,
+        "west": 23
+      }
+    },
+    {
+      "id": "cell_2_28",
+      "center": {
+        "lat": 64.75,
+        "lon": 23.75
+      },
+      "bounds": {
+        "north": 65,
+        "south": 64.5,
+        "east": 24,
+        "west": 23.5
+      }
+    },
+    {
+      "id": "cell_2_29",
+      "center": {
+        "lat": 64.75,
+        "lon": 24.25
+      },
+      "bounds": {
+        "north": 65,
+        "south": 64.5,
+        "east": 24.5,
+        "west": 24
+      }
+    },
+    {
+      "id": "cell_3_23",
+      "center": {
+        "lat": 64.25,
+        "lon": 21.25
+      },
+      "bounds": {
+        "north": 64.5,
+        "south": 64,
+        "east": 21.5,
+        "west": 21
+      }
+    },
+    {
+      "id": "cell_3_24",
+      "center": {
+        "lat": 64.25,
+        "lon": 21.75
+      },
+      "bounds": {
+        "north": 64.5,
+        "south": 64,
+        "east": 22,
+        "west": 21.5
+      }
+    },
+    {
+      "id": "cell_3_25",
+      "center": {
+        "lat": 64.25,
+        "lon": 22.25
+      },
+      "bounds": {
+        "north": 64.5,
+        "south": 64,
+        "east": 22.5,
+        "west": 22
+      }
+    },
+    {
+      "id": "cell_3_26",
+      "center": {
+        "lat": 64.25,
+        "lon": 22.75
+      },
+      "bounds": {
+        "north": 64.5,
+        "south": 64,
+        "east": 23,
+        "west": 22.5
+      }
+    },
+    {
+      "id": "cell_3_27",
+      "center": {
+        "lat": 64.25,
+        "lon": 23.25
+      },
+      "bounds": {
+        "north": 64.5,
+        "south": 64,
+        "east": 23.5,
+        "west": 23
+      }
+    },
+    {
+      "id": "cell_3_28",
+      "center": {
+        "lat": 64.25,
+        "lon": 23.75
+      },
+      "bounds": {
+        "north": 64.5,
+        "south": 64,
+        "east": 24,
+        "west": 23.5
+      }
+    },
+    {
+      "id": "cell_4_22",
+      "center": {
+        "lat": 63.75,
+        "lon": 20.75
+      },
+      "bounds": {
+        "north": 64,
+        "south": 63.5,
+        "east": 21,
+        "west": 20.5
+      }
+    },
+    {
+      "id": "cell_4_23",
+      "center": {
+        "lat": 63.75,
+        "lon": 21.25
+      },
+      "bounds": {
+        "north": 64,
+        "south": 63.5,
+        "east": 21.5,
+        "west": 21
+      }
+    },
+    {
+      "id": "cell_4_24",
+      "center": {
+        "lat": 63.75,
+        "lon": 21.75
+      },
+      "bounds": {
+        "north": 64,
+        "south": 63.5,
+        "east": 22,
+        "west": 21.5
+      }
+    },
+    {
+      "id": "cell_4_25",
+      "center": {
+        "lat": 63.75,
+        "lon": 22.25
+      },
+      "bounds": {
+        "north": 64,
+        "south": 63.5,
+        "east": 22.5,
+        "west": 22
+      }
+    },
+    {
+      "id": "cell_4_26",
+      "center": {
+        "lat": 63.75,
+        "lon": 22.75
+      },
+      "bounds": {
+        "north": 64,
+        "south": 63.5,
+        "east": 23,
+        "west": 22.5
+      }
+    },
+    {
+      "id": "cell_5_18",
+      "center": {
+        "lat": 63.25,
+        "lon": 18.75
+      },
+      "bounds": {
+        "north": 63.5,
+        "south": 63,
+        "east": 19,
+        "west": 18.5
+      }
+    },
+    {
+      "id": "cell_5_19",
+      "center": {
+        "lat": 63.25,
+        "lon": 19.25
+      },
+      "bounds": {
+        "north": 63.5,
+        "south": 63,
+        "east": 19.5,
+        "west": 19
+      }
+    },
+    {
+      "id": "cell_5_20",
+      "center": {
+        "lat": 63.25,
+        "lon": 19.75
+      },
+      "bounds": {
+        "north": 63.5,
+        "south": 63,
+        "east": 20,
+        "west": 19.5
+      }
+    },
+    {
+      "id": "cell_5_21",
+      "center": {
+        "lat": 63.25,
+        "lon": 20.25
+      },
+      "bounds": {
+        "north": 63.5,
+        "south": 63,
+        "east": 20.5,
+        "west": 20
+      }
+    },
+    {
+      "id": "cell_5_22",
+      "center": {
+        "lat": 63.25,
+        "lon": 20.75
+      },
+      "bounds": {
+        "north": 63.5,
+        "south": 63,
+        "east": 21,
+        "west": 20.5
+      }
+    },
+    {
+      "id": "cell_5_23",
+      "center": {
+        "lat": 63.25,
+        "lon": 21.25
+      },
+      "bounds": {
+        "north": 63.5,
+        "south": 63,
+        "east": 21.5,
+        "west": 21
+      }
+    },
+    {
+      "id": "cell_5_24",
+      "center": {
+        "lat": 63.25,
+        "lon": 21.75
+      },
+      "bounds": {
+        "north": 63.5,
+        "south": 63,
+        "east": 22,
+        "west": 21.5
+      }
+    },
+    {
+      "id": "cell_6_17",
+      "center": {
+        "lat": 62.75,
+        "lon": 18.25
+      },
+      "bounds": {
+        "north": 63,
+        "south": 62.5,
+        "east": 18.5,
+        "west": 18
+      }
+    },
+    {
+      "id": "cell_6_18",
+      "center": {
+        "lat": 62.75,
+        "lon": 18.75
+      },
+      "bounds": {
+        "north": 63,
+        "south": 62.5,
+        "east": 19,
+        "west": 18.5
+      }
+    },
+    {
+      "id": "cell_6_19",
+      "center": {
+        "lat": 62.75,
+        "lon": 19.25
+      },
+      "bounds": {
+        "north": 63,
+        "south": 62.5,
+        "east": 19.5,
+        "west": 19
+      }
+    },
+    {
+      "id": "cell_6_20",
+      "center": {
+        "lat": 62.75,
+        "lon": 19.75
+      },
+      "bounds": {
+        "north": 63,
+        "south": 62.5,
+        "east": 20,
+        "west": 19.5
+      }
+    },
+    {
+      "id": "cell_6_21",
+      "center": {
+        "lat": 62.75,
+        "lon": 20.25
+      },
+      "bounds": {
+        "north": 63,
+        "south": 62.5,
+        "east": 20.5,
+        "west": 20
+      }
+    },
+    {
+      "id": "cell_6_22",
+      "center": {
+        "lat": 62.75,
+        "lon": 20.75
+      },
+      "bounds": {
+        "north": 63,
+        "south": 62.5,
+        "east": 21,
+        "west": 20.5
+      }
+    },
+    {
+      "id": "cell_6_23",
+      "center": {
+        "lat": 62.75,
+        "lon": 21.25
+      },
+      "bounds": {
+        "north": 63,
+        "south": 62.5,
+        "east": 21.5,
+        "west": 21
+      }
+    },
+    {
+      "id": "cell_7_16",
+      "center": {
+        "lat": 62.25,
+        "lon": 17.75
+      },
+      "bounds": {
+        "north": 62.5,
+        "south": 62,
+        "east": 18,
+        "west": 17.5
+      }
+    },
+    {
+      "id": "cell_7_17",
+      "center": {
+        "lat": 62.25,
+        "lon": 18.25
+      },
+      "bounds": {
+        "north": 62.5,
+        "south": 62,
+        "east": 18.5,
+        "west": 18
+      }
+    },
+    {
+      "id": "cell_7_18",
+      "center": {
+        "lat": 62.25,
+        "lon": 18.75
+      },
+      "bounds": {
+        "north": 62.5,
+        "south": 62,
+        "east": 19,
+        "west": 18.5
+      }
+    },
+    {
+      "id": "cell_7_19",
+      "center": {
+        "lat": 62.25,
+        "lon": 19.25
+      },
+      "bounds": {
+        "north": 62.5,
+        "south": 62,
+        "east": 19.5,
+        "west": 19
+      }
+    },
+    {
+      "id": "cell_7_20",
+      "center": {
+        "lat": 62.25,
+        "lon": 19.75
+      },
+      "bounds": {
+        "north": 62.5,
+        "south": 62,
+        "east": 20,
+        "west": 19.5
+      }
+    },
+    {
+      "id": "cell_7_21",
+      "center": {
+        "lat": 62.25,
+        "lon": 20.25
+      },
+      "bounds": {
+        "north": 62.5,
+        "south": 62,
+        "east": 20.5,
+        "west": 20
+      }
+    },
+    {
+      "id": "cell_7_22",
+      "center": {
+        "lat": 62.25,
+        "lon": 20.75
+      },
+      "bounds": {
+        "north": 62.5,
+        "south": 62,
+        "east": 21,
+        "west": 20.5
+      }
+    },
+    {
+      "id": "cell_7_23",
+      "center": {
+        "lat": 62.25,
+        "lon": 21.25
+      },
+      "bounds": {
+        "north": 62.5,
+        "south": 62,
+        "east": 21.5,
+        "west": 21
+      }
+    },
+    {
+      "id": "cell_8_16",
+      "center": {
+        "lat": 61.75,
+        "lon": 17.75
+      },
+      "bounds": {
+        "north": 62,
+        "south": 61.5,
+        "east": 18,
+        "west": 17.5
+      }
+    },
+    {
+      "id": "cell_8_17",
+      "center": {
+        "lat": 61.75,
+        "lon": 18.25
+      },
+      "bounds": {
+        "north": 62,
+        "south": 61.5,
+        "east": 18.5,
+        "west": 18
+      }
+    },
+    {
+      "id": "cell_8_18",
+      "center": {
+        "lat": 61.75,
+        "lon": 18.75
+      },
+      "bounds": {
+        "north": 62,
+        "south": 61.5,
+        "east": 19,
+        "west": 18.5
+      }
+    },
+    {
+      "id": "cell_8_19",
+      "center": {
+        "lat": 61.75,
+        "lon": 19.25
+      },
+      "bounds": {
+        "north": 62,
+        "south": 61.5,
+        "east": 19.5,
+        "west": 19
+      }
+    },
+    {
+      "id": "cell_8_20",
+      "center": {
+        "lat": 61.75,
+        "lon": 19.75
+      },
+      "bounds": {
+        "north": 62,
+        "south": 61.5,
+        "east": 20,
+        "west": 19.5
+      }
+    },
+    {
+      "id": "cell_8_21",
+      "center": {
+        "lat": 61.75,
+        "lon": 20.25
+      },
+      "bounds": {
+        "north": 62,
+        "south": 61.5,
+        "east": 20.5,
+        "west": 20
+      }
+    },
+    {
+      "id": "cell_8_22",
+      "center": {
+        "lat": 61.75,
+        "lon": 20.75
+      },
+      "bounds": {
+        "north": 62,
+        "south": 61.5,
+        "east": 21,
+        "west": 20.5
+      }
+    },
+    {
+      "id": "cell_8_23",
+      "center": {
+        "lat": 61.75,
+        "lon": 21.25
+      },
+      "bounds": {
+        "north": 62,
+        "south": 61.5,
+        "east": 21.5,
+        "west": 21
+      }
+    },
+    {
+      "id": "cell_9_16",
+      "center": {
+        "lat": 61.25,
+        "lon": 17.75
+      },
+      "bounds": {
+        "north": 61.5,
+        "south": 61,
+        "east": 18,
+        "west": 17.5
+      }
+    },
+    {
+      "id": "cell_9_17",
+      "center": {
+        "lat": 61.25,
+        "lon": 18.25
+      },
+      "bounds": {
+        "north": 61.5,
+        "south": 61,
+        "east": 18.5,
+        "west": 18
+      }
+    },
+    {
+      "id": "cell_9_18",
+      "center": {
+        "lat": 61.25,
+        "lon": 18.75
+      },
+      "bounds": {
+        "north": 61.5,
+        "south": 61,
+        "east": 19,
+        "west": 18.5
+      }
+    },
+    {
+      "id": "cell_9_19",
+      "center": {
+        "lat": 61.25,
+        "lon": 19.25
+      },
+      "bounds": {
+        "north": 61.5,
+        "south": 61,
+        "east": 19.5,
+        "west": 19
+      }
+    },
+    {
+      "id": "cell_9_20",
+      "center": {
+        "lat": 61.25,
+        "lon": 19.75
+      },
+      "bounds": {
+        "north": 61.5,
+        "south": 61,
+        "east": 20,
+        "west": 19.5
+      }
+    },
+    {
+      "id": "cell_9_21",
+      "center": {
+        "lat": 61.25,
+        "lon": 20.25
+      },
+      "bounds": {
+        "north": 61.5,
+        "south": 61,
+        "east": 20.5,
+        "west": 20
+      }
+    },
+    {
+      "id": "cell_9_22",
+      "center": {
+        "lat": 61.25,
+        "lon": 20.75
+      },
+      "bounds": {
+        "north": 61.5,
+        "south": 61,
+        "east": 21,
+        "west": 20.5
+      }
+    },
+    {
+      "id": "cell_9_23",
+      "center": {
+        "lat": 61.25,
+        "lon": 21.25
+      },
+      "bounds": {
+        "north": 61.5,
+        "south": 61,
+        "east": 21.5,
+        "west": 21
+      }
+    },
+    {
+      "id": "cell_10_17",
+      "center": {
+        "lat": 60.75,
+        "lon": 18.25
+      },
+      "bounds": {
+        "north": 61,
+        "south": 60.5,
+        "east": 18.5,
+        "west": 18
+      }
+    },
+    {
+      "id": "cell_10_18",
+      "center": {
+        "lat": 60.75,
+        "lon": 18.75
+      },
+      "bounds": {
+        "north": 61,
+        "south": 60.5,
+        "east": 19,
+        "west": 18.5
+      }
+    },
+    {
+      "id": "cell_10_19",
+      "center": {
+        "lat": 60.75,
+        "lon": 19.25
+      },
+      "bounds": {
+        "north": 61,
+        "south": 60.5,
+        "east": 19.5,
+        "west": 19
+      }
+    },
+    {
+      "id": "cell_10_20",
+      "center": {
+        "lat": 60.75,
+        "lon": 19.75
+      },
+      "bounds": {
+        "north": 61,
+        "south": 60.5,
+        "east": 20,
+        "west": 19.5
+      }
+    },
+    {
+      "id": "cell_10_21",
+      "center": {
+        "lat": 60.75,
+        "lon": 20.25
+      },
+      "bounds": {
+        "north": 61,
+        "south": 60.5,
+        "east": 20.5,
+        "west": 20
+      }
+    },
+    {
+      "id": "cell_10_22",
+      "center": {
+        "lat": 60.75,
+        "lon": 20.75
+      },
+      "bounds": {
+        "north": 61,
+        "south": 60.5,
+        "east": 21,
+        "west": 20.5
+      }
+    },
+    {
+      "id": "cell_10_23",
+      "center": {
+        "lat": 60.75,
+        "lon": 21.25
+      },
+      "bounds": {
+        "north": 61,
+        "south": 60.5,
+        "east": 21.5,
+        "west": 21
+      }
+    },
+    {
+      "id": "cell_11_18",
+      "center": {
+        "lat": 60.25,
+        "lon": 18.75
+      },
+      "bounds": {
+        "north": 60.5,
+        "south": 60,
+        "east": 19,
+        "west": 18.5
+      }
+    },
+    {
+      "id": "cell_11_19",
+      "center": {
+        "lat": 60.25,
+        "lon": 19.25
+      },
+      "bounds": {
+        "north": 60.5,
+        "south": 60,
+        "east": 19.5,
+        "west": 19
+      }
+    },
+    {
+      "id": "cell_11_20",
+      "center": {
+        "lat": 60.25,
+        "lon": 19.75
+      },
+      "bounds": {
+        "north": 60.5,
+        "south": 60,
+        "east": 20,
+        "west": 19.5
+      }
+    },
+    {
+      "id": "cell_11_21",
+      "center": {
+        "lat": 60.25,
+        "lon": 20.25
+      },
+      "bounds": {
+        "north": 60.5,
+        "south": 60,
+        "east": 20.5,
+        "west": 20
+      }
+    },
+    {
+      "id": "cell_11_22",
+      "center": {
+        "lat": 60.25,
+        "lon": 20.75
+      },
+      "bounds": {
+        "north": 60.5,
+        "south": 60,
+        "east": 21,
+        "west": 20.5
+      }
+    },
+    {
+      "id": "cell_11_23",
+      "center": {
+        "lat": 60.25,
+        "lon": 21.25
+      },
+      "bounds": {
+        "north": 60.5,
+        "south": 60,
+        "east": 21.5,
+        "west": 21
+      }
+    },
+    {
+      "id": "cell_11_24",
+      "center": {
+        "lat": 60.25,
+        "lon": 21.75
+      },
+      "bounds": {
+        "north": 60.5,
+        "south": 60,
+        "east": 22,
+        "west": 21.5
+      }
+    },
+    {
+      "id": "cell_11_25",
+      "center": {
+        "lat": 60.25,
+        "lon": 22.25
+      },
+      "bounds": {
+        "north": 60.5,
+        "south": 60,
+        "east": 22.5,
+        "west": 22
+      }
+    },
+    {
+      "id": "cell_11_26",
+      "center": {
+        "lat": 60.25,
+        "lon": 22.75
+      },
+      "bounds": {
+        "north": 60.5,
+        "south": 60,
+        "east": 23,
+        "west": 22.5
+      }
+    },
+    {
+      "id": "cell_11_27",
+      "center": {
+        "lat": 60.25,
+        "lon": 23.25
+      },
+      "bounds": {
+        "north": 60.5,
+        "south": 60,
+        "east": 23.5,
+        "west": 23
+      }
+    },
+    {
+      "id": "cell_11_28",
+      "center": {
+        "lat": 60.25,
+        "lon": 23.75
+      },
+      "bounds": {
+        "north": 60.5,
+        "south": 60,
+        "east": 24,
+        "west": 23.5
+      }
+    },
+    {
+      "id": "cell_11_29",
+      "center": {
+        "lat": 60.25,
+        "lon": 24.25
+      },
+      "bounds": {
+        "north": 60.5,
+        "south": 60,
+        "east": 24.5,
+        "west": 24
+      }
+    },
+    {
+      "id": "cell_11_30",
+      "center": {
+        "lat": 60.25,
+        "lon": 24.75
+      },
+      "bounds": {
+        "north": 60.5,
+        "south": 60,
+        "east": 25,
+        "west": 24.5
+      }
+    },
+    {
+      "id": "cell_11_31",
+      "center": {
+        "lat": 60.25,
+        "lon": 25.25
+      },
+      "bounds": {
+        "north": 60.5,
+        "south": 60,
+        "east": 25.5,
+        "west": 25
+      }
+    },
+    {
+      "id": "cell_11_32",
+      "center": {
+        "lat": 60.25,
+        "lon": 25.75
+      },
+      "bounds": {
+        "north": 60.5,
+        "south": 60,
+        "east": 26,
+        "west": 25.5
+      }
+    },
+    {
+      "id": "cell_11_33",
+      "center": {
+        "lat": 60.25,
+        "lon": 26.25
+      },
+      "bounds": {
+        "north": 60.5,
+        "south": 60,
+        "east": 26.5,
+        "west": 26
+      }
+    },
+    {
+      "id": "cell_11_34",
+      "center": {
+        "lat": 60.25,
+        "lon": 26.75
+      },
+      "bounds": {
+        "north": 60.5,
+        "south": 60,
+        "east": 27,
+        "west": 26.5
+      }
+    },
+    {
+      "id": "cell_11_35",
+      "center": {
+        "lat": 60.25,
+        "lon": 27.25
+      },
+      "bounds": {
+        "north": 60.5,
+        "south": 60,
+        "east": 27.5,
+        "west": 27
+      }
+    },
+    {
+      "id": "cell_11_36",
+      "center": {
+        "lat": 60.25,
+        "lon": 27.75
+      },
+      "bounds": {
+        "north": 60.5,
+        "south": 60,
+        "east": 28,
+        "west": 27.5
+      }
+    },
+    {
+      "id": "cell_11_37",
+      "center": {
+        "lat": 60.25,
+        "lon": 28.25
+      },
+      "bounds": {
+        "north": 60.5,
+        "south": 60,
+        "east": 28.5,
+        "west": 28
+      }
+    },
+    {
+      "id": "cell_11_38",
+      "center": {
+        "lat": 60.25,
+        "lon": 28.75
+      },
+      "bounds": {
+        "north": 60.5,
+        "south": 60,
+        "east": 29,
+        "west": 28.5
+      }
+    },
+    {
+      "id": "cell_11_39",
+      "center": {
+        "lat": 60.25,
+        "lon": 29.25
+      },
+      "bounds": {
+        "north": 60.5,
+        "south": 60,
+        "east": 29.5,
+        "west": 29
+      }
+    },
+    {
+      "id": "cell_11_40",
+      "center": {
+        "lat": 60.25,
+        "lon": 29.75
+      },
+      "bounds": {
+        "north": 60.5,
+        "south": 60,
+        "east": 30,
+        "west": 29.5
+      }
+    },
+    {
+      "id": "cell_12_20",
+      "center": {
+        "lat": 59.75,
+        "lon": 19.75
+      },
+      "bounds": {
+        "north": 60,
+        "south": 59.5,
+        "east": 20,
+        "west": 19.5
+      }
+    },
+    {
+      "id": "cell_12_21",
+      "center": {
+        "lat": 59.75,
+        "lon": 20.25
+      },
+      "bounds": {
+        "north": 60,
+        "south": 59.5,
+        "east": 20.5,
+        "west": 20
+      }
+    },
+    {
+      "id": "cell_12_22",
+      "center": {
+        "lat": 59.75,
+        "lon": 20.75
+      },
+      "bounds": {
+        "north": 60,
+        "south": 59.5,
+        "east": 21,
+        "west": 20.5
+      }
+    },
+    {
+      "id": "cell_12_23",
+      "center": {
+        "lat": 59.75,
+        "lon": 21.25
+      },
+      "bounds": {
+        "north": 60,
+        "south": 59.5,
+        "east": 21.5,
+        "west": 21
+      }
+    },
+    {
+      "id": "cell_12_24",
+      "center": {
+        "lat": 59.75,
+        "lon": 21.75
+      },
+      "bounds": {
+        "north": 60,
+        "south": 59.5,
+        "east": 22,
+        "west": 21.5
+      }
+    },
+    {
+      "id": "cell_12_25",
+      "center": {
+        "lat": 59.75,
+        "lon": 22.25
+      },
+      "bounds": {
+        "north": 60,
+        "south": 59.5,
+        "east": 22.5,
+        "west": 22
+      }
+    },
+    {
+      "id": "cell_12_26",
+      "center": {
+        "lat": 59.75,
+        "lon": 22.75
+      },
+      "bounds": {
+        "north": 60,
+        "south": 59.5,
+        "east": 23,
+        "west": 22.5
+      }
+    },
+    {
+      "id": "cell_12_27",
+      "center": {
+        "lat": 59.75,
+        "lon": 23.25
+      },
+      "bounds": {
+        "north": 60,
+        "south": 59.5,
+        "east": 23.5,
+        "west": 23
+      }
+    },
+    {
+      "id": "cell_12_28",
+      "center": {
+        "lat": 59.75,
+        "lon": 23.75
+      },
+      "bounds": {
+        "north": 60,
+        "south": 59.5,
+        "east": 24,
+        "west": 23.5
+      }
+    },
+    {
+      "id": "cell_12_29",
+      "center": {
+        "lat": 59.75,
+        "lon": 24.25
+      },
+      "bounds": {
+        "north": 60,
+        "south": 59.5,
+        "east": 24.5,
+        "west": 24
+      }
+    },
+    {
+      "id": "cell_12_30",
+      "center": {
+        "lat": 59.75,
+        "lon": 24.75
+      },
+      "bounds": {
+        "north": 60,
+        "south": 59.5,
+        "east": 25,
+        "west": 24.5
+      }
+    },
+    {
+      "id": "cell_12_31",
+      "center": {
+        "lat": 59.75,
+        "lon": 25.25
+      },
+      "bounds": {
+        "north": 60,
+        "south": 59.5,
+        "east": 25.5,
+        "west": 25
+      }
+    },
+    {
+      "id": "cell_12_32",
+      "center": {
+        "lat": 59.75,
+        "lon": 25.75
+      },
+      "bounds": {
+        "north": 60,
+        "south": 59.5,
+        "east": 26,
+        "west": 25.5
+      }
+    },
+    {
+      "id": "cell_12_33",
+      "center": {
+        "lat": 59.75,
+        "lon": 26.25
+      },
+      "bounds": {
+        "north": 60,
+        "south": 59.5,
+        "east": 26.5,
+        "west": 26
+      }
+    },
+    {
+      "id": "cell_12_34",
+      "center": {
+        "lat": 59.75,
+        "lon": 26.75
+      },
+      "bounds": {
+        "north": 60,
+        "south": 59.5,
+        "east": 27,
+        "west": 26.5
+      }
+    },
+    {
+      "id": "cell_12_35",
+      "center": {
+        "lat": 59.75,
+        "lon": 27.25
+      },
+      "bounds": {
+        "north": 60,
+        "south": 59.5,
+        "east": 27.5,
+        "west": 27
+      }
+    },
+    {
+      "id": "cell_12_36",
+      "center": {
+        "lat": 59.75,
+        "lon": 27.75
+      },
+      "bounds": {
+        "north": 60,
+        "south": 59.5,
+        "east": 28,
+        "west": 27.5
+      }
+    },
+    {
+      "id": "cell_12_37",
+      "center": {
+        "lat": 59.75,
+        "lon": 28.25
+      },
+      "bounds": {
+        "north": 60,
+        "south": 59.5,
+        "east": 28.5,
+        "west": 28
+      }
+    },
+    {
+      "id": "cell_12_38",
+      "center": {
+        "lat": 59.75,
+        "lon": 28.75
+      },
+      "bounds": {
+        "north": 60,
+        "south": 59.5,
+        "east": 29,
+        "west": 28.5
+      }
+    },
+    {
+      "id": "cell_12_39",
+      "center": {
+        "lat": 59.75,
+        "lon": 29.25
+      },
+      "bounds": {
+        "north": 60,
+        "south": 59.5,
+        "east": 29.5,
+        "west": 29
+      }
+    },
+    {
+      "id": "cell_12_40",
+      "center": {
+        "lat": 59.75,
+        "lon": 29.75
+      },
+      "bounds": {
+        "north": 60,
+        "south": 59.5,
+        "east": 30,
+        "west": 29.5
+      }
+    },
+    {
+      "id": "cell_13_17",
+      "center": {
+        "lat": 59.25,
+        "lon": 18.25
+      },
+      "bounds": {
+        "north": 59.5,
+        "south": 59,
+        "east": 18.5,
+        "west": 18
+      }
+    },
+    {
+      "id": "cell_13_18",
+      "center": {
+        "lat": 59.25,
+        "lon": 18.75
+      },
+      "bounds": {
+        "north": 59.5,
+        "south": 59,
+        "east": 19,
+        "west": 18.5
+      }
+    },
+    {
+      "id": "cell_13_19",
+      "center": {
+        "lat": 59.25,
+        "lon": 19.25
+      },
+      "bounds": {
+        "north": 59.5,
+        "south": 59,
+        "east": 19.5,
+        "west": 19
+      }
+    },
+    {
+      "id": "cell_13_20",
+      "center": {
+        "lat": 59.25,
+        "lon": 19.75
+      },
+      "bounds": {
+        "north": 59.5,
+        "south": 59,
+        "east": 20,
+        "west": 19.5
+      }
+    },
+    {
+      "id": "cell_13_21",
+      "center": {
+        "lat": 59.25,
+        "lon": 20.25
+      },
+      "bounds": {
+        "north": 59.5,
+        "south": 59,
+        "east": 20.5,
+        "west": 20
+      }
+    },
+    {
+      "id": "cell_13_22",
+      "center": {
+        "lat": 59.25,
+        "lon": 20.75
+      },
+      "bounds": {
+        "north": 59.5,
+        "south": 59,
+        "east": 21,
+        "west": 20.5
+      }
+    },
+    {
+      "id": "cell_13_23",
+      "center": {
+        "lat": 59.25,
+        "lon": 21.25
+      },
+      "bounds": {
+        "north": 59.5,
+        "south": 59,
+        "east": 21.5,
+        "west": 21
+      }
+    },
+    {
+      "id": "cell_13_24",
+      "center": {
+        "lat": 59.25,
+        "lon": 21.75
+      },
+      "bounds": {
+        "north": 59.5,
+        "south": 59,
+        "east": 22,
+        "west": 21.5
+      }
+    },
+    {
+      "id": "cell_13_25",
+      "center": {
+        "lat": 59.25,
+        "lon": 22.25
+      },
+      "bounds": {
+        "north": 59.5,
+        "south": 59,
+        "east": 22.5,
+        "west": 22
+      }
+    },
+    {
+      "id": "cell_13_26",
+      "center": {
+        "lat": 59.25,
+        "lon": 22.75
+      },
+      "bounds": {
+        "north": 59.5,
+        "south": 59,
+        "east": 23,
+        "west": 22.5
+      }
+    },
+    {
+      "id": "cell_13_27",
+      "center": {
+        "lat": 59.25,
+        "lon": 23.25
+      },
+      "bounds": {
+        "north": 59.5,
+        "south": 59,
+        "east": 23.5,
+        "west": 23
+      }
+    },
+    {
+      "id": "cell_13_28",
+      "center": {
+        "lat": 59.25,
+        "lon": 23.75
+      },
+      "bounds": {
+        "north": 59.5,
+        "south": 59,
+        "east": 24,
+        "west": 23.5
+      }
+    },
+    {
+      "id": "cell_13_29",
+      "center": {
+        "lat": 59.25,
+        "lon": 24.25
+      },
+      "bounds": {
+        "north": 59.5,
+        "south": 59,
+        "east": 24.5,
+        "west": 24
+      }
+    },
+    {
+      "id": "cell_13_30",
+      "center": {
+        "lat": 59.25,
+        "lon": 24.75
+      },
+      "bounds": {
+        "north": 59.5,
+        "south": 59,
+        "east": 25,
+        "west": 24.5
+      }
+    },
+    {
+      "id": "cell_13_31",
+      "center": {
+        "lat": 59.25,
+        "lon": 25.25
+      },
+      "bounds": {
+        "north": 59.5,
+        "south": 59,
+        "east": 25.5,
+        "west": 25
+      }
+    },
+    {
+      "id": "cell_13_32",
+      "center": {
+        "lat": 59.25,
+        "lon": 25.75
+      },
+      "bounds": {
+        "north": 59.5,
+        "south": 59,
+        "east": 26,
+        "west": 25.5
+      }
+    },
+    {
+      "id": "cell_13_33",
+      "center": {
+        "lat": 59.25,
+        "lon": 26.25
+      },
+      "bounds": {
+        "north": 59.5,
+        "south": 59,
+        "east": 26.5,
+        "west": 26
+      }
+    },
+    {
+      "id": "cell_13_34",
+      "center": {
+        "lat": 59.25,
+        "lon": 26.75
+      },
+      "bounds": {
+        "north": 59.5,
+        "south": 59,
+        "east": 27,
+        "west": 26.5
+      }
+    },
+    {
+      "id": "cell_13_35",
+      "center": {
+        "lat": 59.25,
+        "lon": 27.25
+      },
+      "bounds": {
+        "north": 59.5,
+        "south": 59,
+        "east": 27.5,
+        "west": 27
+      }
+    },
+    {
+      "id": "cell_13_36",
+      "center": {
+        "lat": 59.25,
+        "lon": 27.75
+      },
+      "bounds": {
+        "north": 59.5,
+        "south": 59,
+        "east": 28,
+        "west": 27.5
+      }
+    },
+    {
+      "id": "cell_13_37",
+      "center": {
+        "lat": 59.25,
+        "lon": 28.25
+      },
+      "bounds": {
+        "north": 59.5,
+        "south": 59,
+        "east": 28.5,
+        "west": 28
+      }
+    },
+    {
+      "id": "cell_13_38",
+      "center": {
+        "lat": 59.25,
+        "lon": 28.75
+      },
+      "bounds": {
+        "north": 59.5,
+        "south": 59,
+        "east": 29,
+        "west": 28.5
+      }
+    },
+    {
+      "id": "cell_13_39",
+      "center": {
+        "lat": 59.25,
+        "lon": 29.25
+      },
+      "bounds": {
+        "north": 59.5,
+        "south": 59,
+        "east": 29.5,
+        "west": 29
+      }
+    },
+    {
+      "id": "cell_13_40",
+      "center": {
+        "lat": 59.25,
+        "lon": 29.75
+      },
+      "bounds": {
+        "north": 59.5,
+        "south": 59,
+        "east": 30,
+        "west": 29.5
+      }
+    },
+    {
+      "id": "cell_14_17",
+      "center": {
+        "lat": 58.75,
+        "lon": 18.25
+      },
+      "bounds": {
+        "north": 59,
+        "south": 58.5,
+        "east": 18.5,
+        "west": 18
+      }
+    },
+    {
+      "id": "cell_14_18",
+      "center": {
+        "lat": 58.75,
+        "lon": 18.75
+      },
+      "bounds": {
+        "north": 59,
+        "south": 58.5,
+        "east": 19,
+        "west": 18.5
+      }
+    },
+    {
+      "id": "cell_14_19",
+      "center": {
+        "lat": 58.75,
+        "lon": 19.25
+      },
+      "bounds": {
+        "north": 59,
+        "south": 58.5,
+        "east": 19.5,
+        "west": 19
+      }
+    },
+    {
+      "id": "cell_14_20",
+      "center": {
+        "lat": 58.75,
+        "lon": 19.75
+      },
+      "bounds": {
+        "north": 59,
+        "south": 58.5,
+        "east": 20,
+        "west": 19.5
+      }
+    },
+    {
+      "id": "cell_14_21",
+      "center": {
+        "lat": 58.75,
+        "lon": 20.25
+      },
+      "bounds": {
+        "north": 59,
+        "south": 58.5,
+        "east": 20.5,
+        "west": 20
+      }
+    },
+    {
+      "id": "cell_14_22",
+      "center": {
+        "lat": 58.75,
+        "lon": 20.75
+      },
+      "bounds": {
+        "north": 59,
+        "south": 58.5,
+        "east": 21,
+        "west": 20.5
+      }
+    },
+    {
+      "id": "cell_14_23",
+      "center": {
+        "lat": 58.75,
+        "lon": 21.25
+      },
+      "bounds": {
+        "north": 59,
+        "south": 58.5,
+        "east": 21.5,
+        "west": 21
+      }
+    },
+    {
+      "id": "cell_14_24",
+      "center": {
+        "lat": 58.75,
+        "lon": 21.75
+      },
+      "bounds": {
+        "north": 59,
+        "south": 58.5,
+        "east": 22,
+        "west": 21.5
+      }
+    },
+    {
+      "id": "cell_14_25",
+      "center": {
+        "lat": 58.75,
+        "lon": 22.25
+      },
+      "bounds": {
+        "north": 59,
+        "south": 58.5,
+        "east": 22.5,
+        "west": 22
+      }
+    },
+    {
+      "id": "cell_14_26",
+      "center": {
+        "lat": 58.75,
+        "lon": 22.75
+      },
+      "bounds": {
+        "north": 59,
+        "south": 58.5,
+        "east": 23,
+        "west": 22.5
+      }
+    },
+    {
+      "id": "cell_14_27",
+      "center": {
+        "lat": 58.75,
+        "lon": 23.25
+      },
+      "bounds": {
+        "north": 59,
+        "south": 58.5,
+        "east": 23.5,
+        "west": 23
+      }
+    },
+    {
+      "id": "cell_14_28",
+      "center": {
+        "lat": 58.75,
+        "lon": 23.75
+      },
+      "bounds": {
+        "north": 59,
+        "south": 58.5,
+        "east": 24,
+        "west": 23.5
+      }
+    },
+    {
+      "id": "cell_15_15",
+      "center": {
+        "lat": 58.25,
+        "lon": 17.25
+      },
+      "bounds": {
+        "north": 58.5,
+        "south": 58,
+        "east": 17.5,
+        "west": 17
+      }
+    },
+    {
+      "id": "cell_15_16",
+      "center": {
+        "lat": 58.25,
+        "lon": 17.75
+      },
+      "bounds": {
+        "north": 58.5,
+        "south": 58,
+        "east": 18,
+        "west": 17.5
+      }
+    },
+    {
+      "id": "cell_15_17",
+      "center": {
+        "lat": 58.25,
+        "lon": 18.25
+      },
+      "bounds": {
+        "north": 58.5,
+        "south": 58,
+        "east": 18.5,
+        "west": 18
+      }
+    },
+    {
+      "id": "cell_15_18",
+      "center": {
+        "lat": 58.25,
+        "lon": 18.75
+      },
+      "bounds": {
+        "north": 58.5,
+        "south": 58,
+        "east": 19,
+        "west": 18.5
+      }
+    },
+    {
+      "id": "cell_15_19",
+      "center": {
+        "lat": 58.25,
+        "lon": 19.25
+      },
+      "bounds": {
+        "north": 58.5,
+        "south": 58,
+        "east": 19.5,
+        "west": 19
+      }
+    },
+    {
+      "id": "cell_15_20",
+      "center": {
+        "lat": 58.25,
+        "lon": 19.75
+      },
+      "bounds": {
+        "north": 58.5,
+        "south": 58,
+        "east": 20,
+        "west": 19.5
+      }
+    },
+    {
+      "id": "cell_15_21",
+      "center": {
+        "lat": 58.25,
+        "lon": 20.25
+      },
+      "bounds": {
+        "north": 58.5,
+        "south": 58,
+        "east": 20.5,
+        "west": 20
+      }
+    },
+    {
+      "id": "cell_15_22",
+      "center": {
+        "lat": 58.25,
+        "lon": 20.75
+      },
+      "bounds": {
+        "north": 58.5,
+        "south": 58,
+        "east": 21,
+        "west": 20.5
+      }
+    },
+    {
+      "id": "cell_15_23",
+      "center": {
+        "lat": 58.25,
+        "lon": 21.25
+      },
+      "bounds": {
+        "north": 58.5,
+        "south": 58,
+        "east": 21.5,
+        "west": 21
+      }
+    },
+    {
+      "id": "cell_15_24",
+      "center": {
+        "lat": 58.25,
+        "lon": 21.75
+      },
+      "bounds": {
+        "north": 58.5,
+        "south": 58,
+        "east": 22,
+        "west": 21.5
+      }
+    },
+    {
+      "id": "cell_15_25",
+      "center": {
+        "lat": 58.25,
+        "lon": 22.25
+      },
+      "bounds": {
+        "north": 58.5,
+        "south": 58,
+        "east": 22.5,
+        "west": 22
+      }
+    },
+    {
+      "id": "cell_15_26",
+      "center": {
+        "lat": 58.25,
+        "lon": 22.75
+      },
+      "bounds": {
+        "north": 58.5,
+        "south": 58,
+        "east": 23,
+        "west": 22.5
+      }
+    },
+    {
+      "id": "cell_15_27",
+      "center": {
+        "lat": 58.25,
+        "lon": 23.25
+      },
+      "bounds": {
+        "north": 58.5,
+        "south": 58,
+        "east": 23.5,
+        "west": 23
+      }
+    },
+    {
+      "id": "cell_16_14",
+      "center": {
+        "lat": 57.75,
+        "lon": 16.75
+      },
+      "bounds": {
+        "north": 58,
+        "south": 57.5,
+        "east": 17,
+        "west": 16.5
+      }
+    },
+    {
+      "id": "cell_16_15",
+      "center": {
+        "lat": 57.75,
+        "lon": 17.25
+      },
+      "bounds": {
+        "north": 58,
+        "south": 57.5,
+        "east": 17.5,
+        "west": 17
+      }
+    },
+    {
+      "id": "cell_16_16",
+      "center": {
+        "lat": 57.75,
+        "lon": 17.75
+      },
+      "bounds": {
+        "north": 58,
+        "south": 57.5,
+        "east": 18,
+        "west": 17.5
+      }
+    },
+    {
+      "id": "cell_16_17",
+      "center": {
+        "lat": 57.75,
+        "lon": 18.25
+      },
+      "bounds": {
+        "north": 58,
+        "south": 57.5,
+        "east": 18.5,
+        "west": 18
+      }
+    },
+    {
+      "id": "cell_16_18",
+      "center": {
+        "lat": 57.75,
+        "lon": 18.75
+      },
+      "bounds": {
+        "north": 58,
+        "south": 57.5,
+        "east": 19,
+        "west": 18.5
+      }
+    },
+    {
+      "id": "cell_16_19",
+      "center": {
+        "lat": 57.75,
+        "lon": 19.25
+      },
+      "bounds": {
+        "north": 58,
+        "south": 57.5,
+        "east": 19.5,
+        "west": 19
+      }
+    },
+    {
+      "id": "cell_16_20",
+      "center": {
+        "lat": 57.75,
+        "lon": 19.75
+      },
+      "bounds": {
+        "north": 58,
+        "south": 57.5,
+        "east": 20,
+        "west": 19.5
+      }
+    },
+    {
+      "id": "cell_16_21",
+      "center": {
+        "lat": 57.75,
+        "lon": 20.25
+      },
+      "bounds": {
+        "north": 58,
+        "south": 57.5,
+        "east": 20.5,
+        "west": 20
+      }
+    },
+    {
+      "id": "cell_16_22",
+      "center": {
+        "lat": 57.75,
+        "lon": 20.75
+      },
+      "bounds": {
+        "north": 58,
+        "south": 57.5,
+        "east": 21,
+        "west": 20.5
+      }
+    },
+    {
+      "id": "cell_16_23",
+      "center": {
+        "lat": 57.75,
+        "lon": 21.25
+      },
+      "bounds": {
+        "north": 58,
+        "south": 57.5,
+        "east": 21.5,
+        "west": 21
+      }
+    },
+    {
+      "id": "cell_16_24",
+      "center": {
+        "lat": 57.75,
+        "lon": 21.75
+      },
+      "bounds": {
+        "north": 58,
+        "south": 57.5,
+        "east": 22,
+        "west": 21.5
+      }
+    },
+    {
+      "id": "cell_16_25",
+      "center": {
+        "lat": 57.75,
+        "lon": 22.25
+      },
+      "bounds": {
+        "north": 58,
+        "south": 57.5,
+        "east": 22.5,
+        "west": 22
+      }
+    },
+    {
+      "id": "cell_16_26",
+      "center": {
+        "lat": 57.75,
+        "lon": 22.75
+      },
+      "bounds": {
+        "north": 58,
+        "south": 57.5,
+        "east": 23,
+        "west": 22.5
+      }
+    },
+    {
+      "id": "cell_16_27",
+      "center": {
+        "lat": 57.75,
+        "lon": 23.25
+      },
+      "bounds": {
+        "north": 58,
+        "south": 57.5,
+        "east": 23.5,
+        "west": 23
+      }
+    },
+    {
+      "id": "cell_16_28",
+      "center": {
+        "lat": 57.75,
+        "lon": 23.75
+      },
+      "bounds": {
+        "north": 58,
+        "south": 57.5,
+        "east": 24,
+        "west": 23.5
+      }
+    },
+    {
+      "id": "cell_16_29",
+      "center": {
+        "lat": 57.75,
+        "lon": 24.25
+      },
+      "bounds": {
+        "north": 58,
+        "south": 57.5,
+        "east": 24.5,
+        "west": 24
+      }
+    },
+    {
+      "id": "cell_17_14",
+      "center": {
+        "lat": 57.25,
+        "lon": 16.75
+      },
+      "bounds": {
+        "north": 57.5,
+        "south": 57,
+        "east": 17,
+        "west": 16.5
+      }
+    },
+    {
+      "id": "cell_17_15",
+      "center": {
+        "lat": 57.25,
+        "lon": 17.25
+      },
+      "bounds": {
+        "north": 57.5,
+        "south": 57,
+        "east": 17.5,
+        "west": 17
+      }
+    },
+    {
+      "id": "cell_17_16",
+      "center": {
+        "lat": 57.25,
+        "lon": 17.75
+      },
+      "bounds": {
+        "north": 57.5,
+        "south": 57,
+        "east": 18,
+        "west": 17.5
+      }
+    },
+    {
+      "id": "cell_17_18",
+      "center": {
+        "lat": 57.25,
+        "lon": 18.75
+      },
+      "bounds": {
+        "north": 57.5,
+        "south": 57,
+        "east": 19,
+        "west": 18.5
+      }
+    },
+    {
+      "id": "cell_17_19",
+      "center": {
+        "lat": 57.25,
+        "lon": 19.25
+      },
+      "bounds": {
+        "north": 57.5,
+        "south": 57,
+        "east": 19.5,
+        "west": 19
+      }
+    },
+    {
+      "id": "cell_17_20",
+      "center": {
+        "lat": 57.25,
+        "lon": 19.75
+      },
+      "bounds": {
+        "north": 57.5,
+        "south": 57,
+        "east": 20,
+        "west": 19.5
+      }
+    },
+    {
+      "id": "cell_17_21",
+      "center": {
+        "lat": 57.25,
+        "lon": 20.25
+      },
+      "bounds": {
+        "north": 57.5,
+        "south": 57,
+        "east": 20.5,
+        "west": 20
+      }
+    },
+    {
+      "id": "cell_17_22",
+      "center": {
+        "lat": 57.25,
+        "lon": 20.75
+      },
+      "bounds": {
+        "north": 57.5,
+        "south": 57,
+        "east": 21,
+        "west": 20.5
+      }
+    },
+    {
+      "id": "cell_17_23",
+      "center": {
+        "lat": 57.25,
+        "lon": 21.25
+      },
+      "bounds": {
+        "north": 57.5,
+        "south": 57,
+        "east": 21.5,
+        "west": 21
+      }
+    },
+    {
+      "id": "cell_17_24",
+      "center": {
+        "lat": 57.25,
+        "lon": 21.75
+      },
+      "bounds": {
+        "north": 57.5,
+        "south": 57,
+        "east": 22,
+        "west": 21.5
+      }
+    },
+    {
+      "id": "cell_17_26",
+      "center": {
+        "lat": 57.25,
+        "lon": 22.75
+      },
+      "bounds": {
+        "north": 57.5,
+        "south": 57,
+        "east": 23,
+        "west": 22.5
+      }
+    },
+    {
+      "id": "cell_17_27",
+      "center": {
+        "lat": 57.25,
+        "lon": 23.25
+      },
+      "bounds": {
+        "north": 57.5,
+        "south": 57,
+        "east": 23.5,
+        "west": 23
+      }
+    },
+    {
+      "id": "cell_17_28",
+      "center": {
+        "lat": 57.25,
+        "lon": 23.75
+      },
+      "bounds": {
+        "north": 57.5,
+        "south": 57,
+        "east": 24,
+        "west": 23.5
+      }
+    },
+    {
+      "id": "cell_17_29",
+      "center": {
+        "lat": 57.25,
+        "lon": 24.25
+      },
+      "bounds": {
+        "north": 57.5,
+        "south": 57,
+        "east": 24.5,
+        "west": 24
+      }
+    },
+    {
+      "id": "cell_18_14",
+      "center": {
+        "lat": 56.75,
+        "lon": 16.75
+      },
+      "bounds": {
+        "north": 57,
+        "south": 56.5,
+        "east": 17,
+        "west": 16.5
+      }
+    },
+    {
+      "id": "cell_18_15",
+      "center": {
+        "lat": 56.75,
+        "lon": 17.25
+      },
+      "bounds": {
+        "north": 57,
+        "south": 56.5,
+        "east": 17.5,
+        "west": 17
+      }
+    },
+    {
+      "id": "cell_18_16",
+      "center": {
+        "lat": 56.75,
+        "lon": 17.75
+      },
+      "bounds": {
+        "north": 57,
+        "south": 56.5,
+        "east": 18,
+        "west": 17.5
+      }
+    },
+    {
+      "id": "cell_18_17",
+      "center": {
+        "lat": 56.75,
+        "lon": 18.25
+      },
+      "bounds": {
+        "north": 57,
+        "south": 56.5,
+        "east": 18.5,
+        "west": 18
+      }
+    },
+    {
+      "id": "cell_18_18",
+      "center": {
+        "lat": 56.75,
+        "lon": 18.75
+      },
+      "bounds": {
+        "north": 57,
+        "south": 56.5,
+        "east": 19,
+        "west": 18.5
+      }
+    },
+    {
+      "id": "cell_18_19",
+      "center": {
+        "lat": 56.75,
+        "lon": 19.25
+      },
+      "bounds": {
+        "north": 57,
+        "south": 56.5,
+        "east": 19.5,
+        "west": 19
+      }
+    },
+    {
+      "id": "cell_18_20",
+      "center": {
+        "lat": 56.75,
+        "lon": 19.75
+      },
+      "bounds": {
+        "north": 57,
+        "south": 56.5,
+        "east": 20,
+        "west": 19.5
+      }
+    },
+    {
+      "id": "cell_18_21",
+      "center": {
+        "lat": 56.75,
+        "lon": 20.25
+      },
+      "bounds": {
+        "north": 57,
+        "south": 56.5,
+        "east": 20.5,
+        "west": 20
+      }
+    },
+    {
+      "id": "cell_18_22",
+      "center": {
+        "lat": 56.75,
+        "lon": 20.75
+      },
+      "bounds": {
+        "north": 57,
+        "south": 56.5,
+        "east": 21,
+        "west": 20.5
+      }
+    },
+    {
+      "id": "cell_18_23",
+      "center": {
+        "lat": 56.75,
+        "lon": 21.25
+      },
+      "bounds": {
+        "north": 57,
+        "south": 56.5,
+        "east": 21.5,
+        "west": 21
+      }
+    },
+    {
+      "id": "cell_19_2",
+      "center": {
+        "lat": 56.25,
+        "lon": 10.75
+      },
+      "bounds": {
+        "north": 56.5,
+        "south": 56,
+        "east": 11,
+        "west": 10.5
+      }
+    },
+    {
+      "id": "cell_19_13",
+      "center": {
+        "lat": 56.25,
+        "lon": 16.25
+      },
+      "bounds": {
+        "north": 56.5,
+        "south": 56,
+        "east": 16.5,
+        "west": 16
+      }
+    },
+    {
+      "id": "cell_19_14",
+      "center": {
+        "lat": 56.25,
+        "lon": 16.75
+      },
+      "bounds": {
+        "north": 56.5,
+        "south": 56,
+        "east": 17,
+        "west": 16.5
+      }
+    },
+    {
+      "id": "cell_19_15",
+      "center": {
+        "lat": 56.25,
+        "lon": 17.25
+      },
+      "bounds": {
+        "north": 56.5,
+        "south": 56,
+        "east": 17.5,
+        "west": 17
+      }
+    },
+    {
+      "id": "cell_19_16",
+      "center": {
+        "lat": 56.25,
+        "lon": 17.75
+      },
+      "bounds": {
+        "north": 56.5,
+        "south": 56,
+        "east": 18,
+        "west": 17.5
+      }
+    },
+    {
+      "id": "cell_19_17",
+      "center": {
+        "lat": 56.25,
+        "lon": 18.25
+      },
+      "bounds": {
+        "north": 56.5,
+        "south": 56,
+        "east": 18.5,
+        "west": 18
+      }
+    },
+    {
+      "id": "cell_19_18",
+      "center": {
+        "lat": 56.25,
+        "lon": 18.75
+      },
+      "bounds": {
+        "north": 56.5,
+        "south": 56,
+        "east": 19,
+        "west": 18.5
+      }
+    },
+    {
+      "id": "cell_19_19",
+      "center": {
+        "lat": 56.25,
+        "lon": 19.25
+      },
+      "bounds": {
+        "north": 56.5,
+        "south": 56,
+        "east": 19.5,
+        "west": 19
+      }
+    },
+    {
+      "id": "cell_19_20",
+      "center": {
+        "lat": 56.25,
+        "lon": 19.75
+      },
+      "bounds": {
+        "north": 56.5,
+        "south": 56,
+        "east": 20,
+        "west": 19.5
+      }
+    },
+    {
+      "id": "cell_19_21",
+      "center": {
+        "lat": 56.25,
+        "lon": 20.25
+      },
+      "bounds": {
+        "north": 56.5,
+        "south": 56,
+        "east": 20.5,
+        "west": 20
+      }
+    },
+    {
+      "id": "cell_19_22",
+      "center": {
+        "lat": 56.25,
+        "lon": 20.75
+      },
+      "bounds": {
+        "north": 56.5,
+        "south": 56,
+        "east": 21,
+        "west": 20.5
+      }
+    },
+    {
+      "id": "cell_20_2",
+      "center": {
+        "lat": 55.75,
+        "lon": 10.75
+      },
+      "bounds": {
+        "north": 56,
+        "south": 55.5,
+        "east": 11,
+        "west": 10.5
+      }
+    },
+    {
+      "id": "cell_20_5",
+      "center": {
+        "lat": 55.75,
+        "lon": 12.25
+      },
+      "bounds": {
+        "north": 56,
+        "south": 55.5,
+        "east": 12.5,
+        "west": 12
+      }
+    },
+    {
+      "id": "cell_20_6",
+      "center": {
+        "lat": 55.75,
+        "lon": 12.75
+      },
+      "bounds": {
+        "north": 56,
+        "south": 55.5,
+        "east": 13,
+        "west": 12.5
+      }
+    },
+    {
+      "id": "cell_20_11",
+      "center": {
+        "lat": 55.75,
+        "lon": 15.25
+      },
+      "bounds": {
+        "north": 56,
+        "south": 55.5,
+        "east": 15.5,
+        "west": 15
+      }
+    },
+    {
+      "id": "cell_20_12",
+      "center": {
+        "lat": 55.75,
+        "lon": 15.75
+      },
+      "bounds": {
+        "north": 56,
+        "south": 55.5,
+        "east": 16,
+        "west": 15.5
+      }
+    },
+    {
+      "id": "cell_20_13",
+      "center": {
+        "lat": 55.75,
+        "lon": 16.25
+      },
+      "bounds": {
+        "north": 56,
+        "south": 55.5,
+        "east": 16.5,
+        "west": 16
+      }
+    },
+    {
+      "id": "cell_20_14",
+      "center": {
+        "lat": 55.75,
+        "lon": 16.75
+      },
+      "bounds": {
+        "north": 56,
+        "south": 55.5,
+        "east": 17,
+        "west": 16.5
+      }
+    },
+    {
+      "id": "cell_20_15",
+      "center": {
+        "lat": 55.75,
+        "lon": 17.25
+      },
+      "bounds": {
+        "north": 56,
+        "south": 55.5,
+        "east": 17.5,
+        "west": 17
+      }
+    },
+    {
+      "id": "cell_20_16",
+      "center": {
+        "lat": 55.75,
+        "lon": 17.75
+      },
+      "bounds": {
+        "north": 56,
+        "south": 55.5,
+        "east": 18,
+        "west": 17.5
+      }
+    },
+    {
+      "id": "cell_20_17",
+      "center": {
+        "lat": 55.75,
+        "lon": 18.25
+      },
+      "bounds": {
+        "north": 56,
+        "south": 55.5,
+        "east": 18.5,
+        "west": 18
+      }
+    },
+    {
+      "id": "cell_20_18",
+      "center": {
+        "lat": 55.75,
+        "lon": 18.75
+      },
+      "bounds": {
+        "north": 56,
+        "south": 55.5,
+        "east": 19,
+        "west": 18.5
+      }
+    },
+    {
+      "id": "cell_20_19",
+      "center": {
+        "lat": 55.75,
+        "lon": 19.25
+      },
+      "bounds": {
+        "north": 56,
+        "south": 55.5,
+        "east": 19.5,
+        "west": 19
+      }
+    },
+    {
+      "id": "cell_20_20",
+      "center": {
+        "lat": 55.75,
+        "lon": 19.75
+      },
+      "bounds": {
+        "north": 56,
+        "south": 55.5,
+        "east": 20,
+        "west": 19.5
+      }
+    },
+    {
+      "id": "cell_20_21",
+      "center": {
+        "lat": 55.75,
+        "lon": 20.25
+      },
+      "bounds": {
+        "north": 56,
+        "south": 55.5,
+        "east": 20.5,
+        "west": 20
+      }
+    },
+    {
+      "id": "cell_20_22",
+      "center": {
+        "lat": 55.75,
+        "lon": 20.75
+      },
+      "bounds": {
+        "north": 56,
+        "south": 55.5,
+        "east": 21,
+        "west": 20.5
+      }
+    },
+    {
+      "id": "cell_21_1",
+      "center": {
+        "lat": 55.25,
+        "lon": 10.25
+      },
+      "bounds": {
+        "north": 55.5,
+        "south": 55,
+        "east": 10.5,
+        "west": 10
+      }
+    },
+    {
+      "id": "cell_21_2",
+      "center": {
+        "lat": 55.25,
+        "lon": 10.75
+      },
+      "bounds": {
+        "north": 55.5,
+        "south": 55,
+        "east": 11,
+        "west": 10.5
+      }
+    },
+    {
+      "id": "cell_21_3",
+      "center": {
+        "lat": 55.25,
+        "lon": 11.25
+      },
+      "bounds": {
+        "north": 55.5,
+        "south": 55,
+        "east": 11.5,
+        "west": 11
+      }
+    },
+    {
+      "id": "cell_21_4",
+      "center": {
+        "lat": 55.25,
+        "lon": 11.75
+      },
+      "bounds": {
+        "north": 55.5,
+        "south": 55,
+        "east": 12,
+        "west": 11.5
+      }
+    },
+    {
+      "id": "cell_21_5",
+      "center": {
+        "lat": 55.25,
+        "lon": 12.25
+      },
+      "bounds": {
+        "north": 55.5,
+        "south": 55,
+        "east": 12.5,
+        "west": 12
+      }
+    },
+    {
+      "id": "cell_21_6",
+      "center": {
+        "lat": 55.25,
+        "lon": 12.75
+      },
+      "bounds": {
+        "north": 55.5,
+        "south": 55,
+        "east": 13,
+        "west": 12.5
+      }
+    },
+    {
+      "id": "cell_21_7",
+      "center": {
+        "lat": 55.25,
+        "lon": 13.25
+      },
+      "bounds": {
+        "north": 55.5,
+        "south": 55,
+        "east": 13.5,
+        "west": 13
+      }
+    },
+    {
+      "id": "cell_21_8",
+      "center": {
+        "lat": 55.25,
+        "lon": 13.75
+      },
+      "bounds": {
+        "north": 55.5,
+        "south": 55,
+        "east": 14,
+        "west": 13.5
+      }
+    },
+    {
+      "id": "cell_21_9",
+      "center": {
+        "lat": 55.25,
+        "lon": 14.25
+      },
+      "bounds": {
+        "north": 55.5,
+        "south": 55,
+        "east": 14.5,
+        "west": 14
+      }
+    },
+    {
+      "id": "cell_21_10",
+      "center": {
+        "lat": 55.25,
+        "lon": 14.75
+      },
+      "bounds": {
+        "north": 55.5,
+        "south": 55,
+        "east": 15,
+        "west": 14.5
+      }
+    },
+    {
+      "id": "cell_21_11",
+      "center": {
+        "lat": 55.25,
+        "lon": 15.25
+      },
+      "bounds": {
+        "north": 55.5,
+        "south": 55,
+        "east": 15.5,
+        "west": 15
+      }
+    },
+    {
+      "id": "cell_21_12",
+      "center": {
+        "lat": 55.25,
+        "lon": 15.75
+      },
+      "bounds": {
+        "north": 55.5,
+        "south": 55,
+        "east": 16,
+        "west": 15.5
+      }
+    },
+    {
+      "id": "cell_21_13",
+      "center": {
+        "lat": 55.25,
+        "lon": 16.25
+      },
+      "bounds": {
+        "north": 55.5,
+        "south": 55,
+        "east": 16.5,
+        "west": 16
+      }
+    },
+    {
+      "id": "cell_21_14",
+      "center": {
+        "lat": 55.25,
+        "lon": 16.75
+      },
+      "bounds": {
+        "north": 55.5,
+        "south": 55,
+        "east": 17,
+        "west": 16.5
+      }
+    },
+    {
+      "id": "cell_21_15",
+      "center": {
+        "lat": 55.25,
+        "lon": 17.25
+      },
+      "bounds": {
+        "north": 55.5,
+        "south": 55,
+        "east": 17.5,
+        "west": 17
+      }
+    },
+    {
+      "id": "cell_21_16",
+      "center": {
+        "lat": 55.25,
+        "lon": 17.75
+      },
+      "bounds": {
+        "north": 55.5,
+        "south": 55,
+        "east": 18,
+        "west": 17.5
+      }
+    },
+    {
+      "id": "cell_21_17",
+      "center": {
+        "lat": 55.25,
+        "lon": 18.25
+      },
+      "bounds": {
+        "north": 55.5,
+        "south": 55,
+        "east": 18.5,
+        "west": 18
+      }
+    },
+    {
+      "id": "cell_21_18",
+      "center": {
+        "lat": 55.25,
+        "lon": 18.75
+      },
+      "bounds": {
+        "north": 55.5,
+        "south": 55,
+        "east": 19,
+        "west": 18.5
+      }
+    },
+    {
+      "id": "cell_21_19",
+      "center": {
+        "lat": 55.25,
+        "lon": 19.25
+      },
+      "bounds": {
+        "north": 55.5,
+        "south": 55,
+        "east": 19.5,
+        "west": 19
+      }
+    },
+    {
+      "id": "cell_21_20",
+      "center": {
+        "lat": 55.25,
+        "lon": 19.75
+      },
+      "bounds": {
+        "north": 55.5,
+        "south": 55,
+        "east": 20,
+        "west": 19.5
+      }
+    },
+    {
+      "id": "cell_22_0",
+      "center": {
+        "lat": 54.75,
+        "lon": 9.75
+      },
+      "bounds": {
+        "north": 55,
+        "south": 54.5,
+        "east": 10,
+        "west": 9.5
+      }
+    },
+    {
+      "id": "cell_22_1",
+      "center": {
+        "lat": 54.75,
+        "lon": 10.25
+      },
+      "bounds": {
+        "north": 55,
+        "south": 54.5,
+        "east": 10.5,
+        "west": 10
+      }
+    },
+    {
+      "id": "cell_22_2",
+      "center": {
+        "lat": 54.75,
+        "lon": 10.75
+      },
+      "bounds": {
+        "north": 55,
+        "south": 54.5,
+        "east": 11,
+        "west": 10.5
+      }
+    },
+    {
+      "id": "cell_22_3",
+      "center": {
+        "lat": 54.75,
+        "lon": 11.25
+      },
+      "bounds": {
+        "north": 55,
+        "south": 54.5,
+        "east": 11.5,
+        "west": 11
+      }
+    },
+    {
+      "id": "cell_22_4",
+      "center": {
+        "lat": 54.75,
+        "lon": 11.75
+      },
+      "bounds": {
+        "north": 55,
+        "south": 54.5,
+        "east": 12,
+        "west": 11.5
+      }
+    },
+    {
+      "id": "cell_22_5",
+      "center": {
+        "lat": 54.75,
+        "lon": 12.25
+      },
+      "bounds": {
+        "north": 55,
+        "south": 54.5,
+        "east": 12.5,
+        "west": 12
+      }
+    },
+    {
+      "id": "cell_22_6",
+      "center": {
+        "lat": 54.75,
+        "lon": 12.75
+      },
+      "bounds": {
+        "north": 55,
+        "south": 54.5,
+        "east": 13,
+        "west": 12.5
+      }
+    },
+    {
+      "id": "cell_22_7",
+      "center": {
+        "lat": 54.75,
+        "lon": 13.25
+      },
+      "bounds": {
+        "north": 55,
+        "south": 54.5,
+        "east": 13.5,
+        "west": 13
+      }
+    },
+    {
+      "id": "cell_22_8",
+      "center": {
+        "lat": 54.75,
+        "lon": 13.75
+      },
+      "bounds": {
+        "north": 55,
+        "south": 54.5,
+        "east": 14,
+        "west": 13.5
+      }
+    },
+    {
+      "id": "cell_22_9",
+      "center": {
+        "lat": 54.75,
+        "lon": 14.25
+      },
+      "bounds": {
+        "north": 55,
+        "south": 54.5,
+        "east": 14.5,
+        "west": 14
+      }
+    },
+    {
+      "id": "cell_22_10",
+      "center": {
+        "lat": 54.75,
+        "lon": 14.75
+      },
+      "bounds": {
+        "north": 55,
+        "south": 54.5,
+        "east": 15,
+        "west": 14.5
+      }
+    },
+    {
+      "id": "cell_22_11",
+      "center": {
+        "lat": 54.75,
+        "lon": 15.25
+      },
+      "bounds": {
+        "north": 55,
+        "south": 54.5,
+        "east": 15.5,
+        "west": 15
+      }
+    },
+    {
+      "id": "cell_22_12",
+      "center": {
+        "lat": 54.75,
+        "lon": 15.75
+      },
+      "bounds": {
+        "north": 55,
+        "south": 54.5,
+        "east": 16,
+        "west": 15.5
+      }
+    },
+    {
+      "id": "cell_22_13",
+      "center": {
+        "lat": 54.75,
+        "lon": 16.25
+      },
+      "bounds": {
+        "north": 55,
+        "south": 54.5,
+        "east": 16.5,
+        "west": 16
+      }
+    },
+    {
+      "id": "cell_22_14",
+      "center": {
+        "lat": 54.75,
+        "lon": 16.75
+      },
+      "bounds": {
+        "north": 55,
+        "south": 54.5,
+        "east": 17,
+        "west": 16.5
+      }
+    },
+    {
+      "id": "cell_22_15",
+      "center": {
+        "lat": 54.75,
+        "lon": 17.25
+      },
+      "bounds": {
+        "north": 55,
+        "south": 54.5,
+        "east": 17.5,
+        "west": 17
+      }
+    },
+    {
+      "id": "cell_22_16",
+      "center": {
+        "lat": 54.75,
+        "lon": 17.75
+      },
+      "bounds": {
+        "north": 55,
+        "south": 54.5,
+        "east": 18,
+        "west": 17.5
+      }
+    },
+    {
+      "id": "cell_22_17",
+      "center": {
+        "lat": 54.75,
+        "lon": 18.25
+      },
+      "bounds": {
+        "north": 55,
+        "south": 54.5,
+        "east": 18.5,
+        "west": 18
+      }
+    },
+    {
+      "id": "cell_22_18",
+      "center": {
+        "lat": 54.75,
+        "lon": 18.75
+      },
+      "bounds": {
+        "north": 55,
+        "south": 54.5,
+        "east": 19,
+        "west": 18.5
+      }
+    },
+    {
+      "id": "cell_22_19",
+      "center": {
+        "lat": 54.75,
+        "lon": 19.25
+      },
+      "bounds": {
+        "north": 55,
+        "south": 54.5,
+        "east": 19.5,
+        "west": 19
+      }
+    },
+    {
+      "id": "cell_23_1",
+      "center": {
+        "lat": 54.25,
+        "lon": 10.25
+      },
+      "bounds": {
+        "north": 54.5,
+        "south": 54,
+        "east": 10.5,
+        "west": 10
+      }
+    },
+    {
+      "id": "cell_23_2",
+      "center": {
+        "lat": 54.25,
+        "lon": 10.75
+      },
+      "bounds": {
+        "north": 54.5,
+        "south": 54,
+        "east": 11,
+        "west": 10.5
+      }
+    },
+    {
+      "id": "cell_23_3",
+      "center": {
+        "lat": 54.25,
+        "lon": 11.25
+      },
+      "bounds": {
+        "north": 54.5,
+        "south": 54,
+        "east": 11.5,
+        "west": 11
+      }
+    },
+    {
+      "id": "cell_23_4",
+      "center": {
+        "lat": 54.25,
+        "lon": 11.75
+      },
+      "bounds": {
+        "north": 54.5,
+        "south": 54,
+        "east": 12,
+        "west": 11.5
+      }
+    },
+    {
+      "id": "cell_23_5",
+      "center": {
+        "lat": 54.25,
+        "lon": 12.25
+      },
+      "bounds": {
+        "north": 54.5,
+        "south": 54,
+        "east": 12.5,
+        "west": 12
+      }
+    },
+    {
+      "id": "cell_23_6",
+      "center": {
+        "lat": 54.25,
+        "lon": 12.75
+      },
+      "bounds": {
+        "north": 54.5,
+        "south": 54,
+        "east": 13,
+        "west": 12.5
+      }
+    },
+    {
+      "id": "cell_23_7",
+      "center": {
+        "lat": 54.25,
+        "lon": 13.25
+      },
+      "bounds": {
+        "north": 54.5,
+        "south": 54,
+        "east": 13.5,
+        "west": 13
+      }
+    },
+    {
+      "id": "cell_23_8",
+      "center": {
+        "lat": 54.25,
+        "lon": 13.75
+      },
+      "bounds": {
+        "north": 54.5,
+        "south": 54,
+        "east": 14,
+        "west": 13.5
+      }
+    },
+    {
+      "id": "cell_23_11",
+      "center": {
+        "lat": 54.25,
+        "lon": 15.25
+      },
+      "bounds": {
+        "north": 54.5,
+        "south": 54,
+        "east": 15.5,
+        "west": 15
+      }
+    },
+    {
+      "id": "cell_23_14",
+      "center": {
+        "lat": 54.25,
+        "lon": 16.75
+      },
+      "bounds": {
+        "north": 54.5,
+        "south": 54,
+        "east": 17,
+        "west": 16.5
+      }
+    },
+    {
+      "id": "cell_23_15",
+      "center": {
+        "lat": 54.25,
+        "lon": 17.25
+      },
+      "bounds": {
+        "north": 54.5,
+        "south": 54,
+        "east": 17.5,
+        "west": 17
+      }
+    }
+  ]
+}
